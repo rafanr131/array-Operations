@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("VSstudy3")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+83c421295d890d7f18438f86fc6b0eff486133bc")]
 [assembly: System.Reflection.AssemblyProductAttribute("VSstudy3")]
 [assembly: System.Reflection.AssemblyTitleAttribute("VSstudy3")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
