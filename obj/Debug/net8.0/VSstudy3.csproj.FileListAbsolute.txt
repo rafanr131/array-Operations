@@ -1,0 +1,14 @@
+D:\C#Study\VSstudy3\VSstudy3\bin\Debug\net8.0\VSstudy3.exe
+D:\C#Study\VSstudy3\VSstudy3\bin\Debug\net8.0\VSstudy3.deps.json
+D:\C#Study\VSstudy3\VSstudy3\bin\Debug\net8.0\VSstudy3.runtimeconfig.json
+D:\C#Study\VSstudy3\VSstudy3\bin\Debug\net8.0\VSstudy3.dll
+D:\C#Study\VSstudy3\VSstudy3\bin\Debug\net8.0\VSstudy3.pdb
+D:\C#Study\VSstudy3\VSstudy3\obj\Debug\net8.0\VSstudy3.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#Study\VSstudy3\VSstudy3\obj\Debug\net8.0\VSstudy3.AssemblyInfoInputs.cache
+D:\C#Study\VSstudy3\VSstudy3\obj\Debug\net8.0\VSstudy3.AssemblyInfo.cs
+D:\C#Study\VSstudy3\VSstudy3\obj\Debug\net8.0\VSstudy3.csproj.CoreCompileInputs.cache
+D:\C#Study\VSstudy3\VSstudy3\obj\Debug\net8.0\VSstudy3.dll
+D:\C#Study\VSstudy3\VSstudy3\obj\Debug\net8.0\refint\VSstudy3.dll
+D:\C#Study\VSstudy3\VSstudy3\obj\Debug\net8.0\VSstudy3.pdb
+D:\C#Study\VSstudy3\VSstudy3\obj\Debug\net8.0\VSstudy3.genruntimeconfig.cache
+D:\C#Study\VSstudy3\VSstudy3\obj\Debug\net8.0\ref\VSstudy3.dll
