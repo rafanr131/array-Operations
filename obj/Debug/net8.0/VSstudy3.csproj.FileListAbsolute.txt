@@ -12,3 +12,4 @@ D:\C#Study\VSstudy3\VSstudy3\obj\Debug\net8.0\refint\VSstudy3.dll
 D:\C#Study\VSstudy3\VSstudy3\obj\Debug\net8.0\VSstudy3.pdb
 D:\C#Study\VSstudy3\VSstudy3\obj\Debug\net8.0\VSstudy3.genruntimeconfig.cache
 D:\C#Study\VSstudy3\VSstudy3\obj\Debug\net8.0\ref\VSstudy3.dll
+D:\C#Study\VSstudy3\VSstudy3\obj\Debug\net8.0\VSstudy3.sourcelink.json
